@@ -1,0 +1,11 @@
+#pagelet_dock{
+    display: none !important;
+}
+
+#pagelet_sidebar{
+    display: none !important;
+}
+
+a[name=mercurymessages]{
+    display: none !important;
+}
